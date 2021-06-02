@@ -1,0 +1,22 @@
+<h2 style="padding-top: 10px;">(View All Products)</h2>
+
+  <div class="row" style="padding-top: 10px;">
+    <div class="col-lg-4 col-md-6 mb-4" *ngFor="let products of productDetails">
+      <div class="card h-100">
+        <a routerLink="view-product/{{products.id}}"><img class="card-img-top" src="{{products.productImg}}" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a routerLink="view-product/{{products.id}}">{{products.name}} ({{products.vendor_name}})</a>
+          </h4>
+          <h5>Rs. {{products.price}}</h5>
+          <p class="card-text">{{products.description}}</p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">{{products.rating}} star</small>
+          <small class="text-muted" style="padding-left: 105px;">{{products.review}} reviews</small>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <!-- /.row -->

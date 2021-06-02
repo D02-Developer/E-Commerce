@@ -1,0 +1,275 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Party wear Shirt",
+      "categoryId": 2,
+      "description": "description first for shirt",
+      "price": 499,
+      "productImg": "http://localhost:4200/assets/s1.jpg",
+      "is_available": true,
+      "rating": 3.5,
+      "review": 150,
+      "vendor_name": "Roadstar",
+      "waranty": 1
+    },
+    {
+      "id": 2,
+      "name": "Casual Shirt",
+      "categoryId": 2,
+      "description": "description second for shirt",
+      "price": 249,
+      "productImg": "http://localhost:4200/assets/s2.jpg",
+      "is_available": true,
+      "rating": 4,
+      "review": 150,
+      "vendor_name": "Roadstar",
+      "waranty": 1
+    },
+    {
+      "id": 3,
+      "name": "Formal Shirt",
+      "categoryId": 2,
+      "description": "description third for shirt",
+      "price": 369,
+      "productImg": "http://localhost:4200/assets/s3.jpg",
+      "is_available": true,
+      "rating": 4.5,
+      "review": 150,
+      "vendor_name": "Roadstar",
+      "waranty": 1
+    },
+    {
+      "id": 4,
+      "name": "Casual Shirt",
+      "categoryId": 2,
+      "description": "description four for shirt",
+      "price": 479,
+      "productImg": "http://localhost:4200/assets/s4.jpg",
+      "is_available": true,
+      "rating": 4,
+      "review": 150,
+      "vendor_name": "Roadstar",
+      "waranty": 1
+    },
+    {
+      "id": 5,
+      "name": "Shirt",
+      "categoryId": 2,
+      "description": "description five for shirt",
+      "price": 199,
+      "productImg": "http://localhost:4200/assets/s5.jpg",
+      "is_available": true,
+      "rating": 3,
+      "review": 150,
+      "vendor_name": "Roadstar",
+      "waranty": 1
+    },
+    {
+      "id": 6,
+      "name": "Formal Shirt",
+      "categoryId": 2,
+      "description": "description six for shirt",
+      "price": 299,
+      "productImg": "http://localhost:4200/assets/s6.jpg",
+      "is_available": true,
+      "rating": 5,
+      "review": 150,
+      "vendor_name": "Roadstar",
+      "waranty": 1
+    },
+    {
+      "id": 7,
+      "name": "HandsFree",
+      "categoryId": 1,
+      "description": "HandsFree sounds great!",
+      "price": 999,
+      "productImg": "http://localhost:4200/assets/e1.jpg",
+      "is_available": true,
+      "rating": 4.8,
+      "review": 170,
+      "vendor_name": "JBL",
+      "waranty": 1
+    },
+    {
+      "id": 8,
+      "name": "Camera DSLR",
+      "categoryId": 1,
+      "description": "Best picture of the world!",
+      "price": 29999,
+      "productImg": "http://localhost:4200/assets/e2.jpg",
+      "is_available": true,
+      "rating": 4,
+      "review": 256,
+      "vendor_name": "Canon",
+      "waranty": 1
+    },
+    {
+      "id": 9,
+      "name": "TV",
+      "categoryId": 1,
+      "description": "Watch the HD shows!",
+      "price": 45999,
+      "productImg": "http://localhost:4200/assets/e3.jpg",
+      "is_available": true,
+      "rating": 4.5,
+      "review": 347,
+      "vendor_name": "Sony",
+      "waranty": 1
+    },
+    {
+      "id": 10,
+      "name": "Dress",
+      "categoryId": 3,
+      "description": "Blue flowers dress",
+      "price": 499,
+      "productImg": "http://localhost:4200/assets/w1.jpg",
+      "is_available": true,
+      "rating": 4.8,
+      "review": 412,
+      "vendor_name": "Amazon",
+      "waranty": 1
+    },
+    {
+      "id": 11,
+      "name": "One Piece Dress",
+      "categoryId": 3,
+      "description": "New style one piece dress",
+      "price": 555,
+      "productImg": "http://localhost:4200/assets/w2.jpg",
+      "is_available": true,
+      "rating": 4.6,
+      "review": 200,
+      "vendor_name": "Indiamart",
+      "waranty": 1
+    },
+    {
+      "id": 12,
+      "name": "Top",
+      "categoryId": 3,
+      "description": "White cotton top for women",
+      "price": 399,
+      "productImg": "http://localhost:4200/assets/w3.jpg",
+      "is_available": true,
+      "rating": 4.5,
+      "review": 148,
+      "vendor_name": "Amazon",
+      "waranty": 1
+    },
+    {
+      "id": 13,
+      "name": "Chair",
+      "categoryId": 4,
+      "description": "Confortable with design chair",
+      "price": 549,
+      "productImg": "http://localhost:4200/assets/h1.jpg",
+      "is_available": true,
+      "rating": 4.4,
+      "review": 165,
+      "vendor_name": "Flipkart",
+      "waranty": 1
+    },
+    {
+      "id": 14,
+      "name": "Dining Table",
+      "categoryId": 4,
+      "description": "Best wooden dining for new home",
+      "price": 1599,
+      "productImg": "http://localhost:4200/assets/h2.jpg",
+      "is_available": true,
+      "rating": 4.7,
+      "review": 267,
+      "vendor_name": "Indiamart",
+      "waranty": 1
+    },
+    {
+      "id": 15,
+      "name": "Sofa",
+      "categoryId": 4,
+      "description": "Water proofing blue sofa",
+      "price": 2999,
+      "productImg": "http://localhost:4200/assets/h3.jpg",
+      "is_available": true,
+      "rating": 4.5,
+      "review": 148,
+      "vendor_name": "Amazon",
+      "waranty": 1
+    },
+    {
+      "id": 16,
+      "name": "Baby Cycle",
+      "categoryId": 5,
+      "description": "Three whiler safty cycle",
+      "price": 499,
+      "productImg": "http://localhost:4200/assets/b1.jpg",
+      "is_available": true,
+      "rating": 4.8,
+      "review": 412,
+      "vendor_name": "Amazon",
+      "waranty": 1
+    },
+    {
+      "id": 17,
+      "name": "Herbal Skin Cream",
+      "categoryId": 5,
+      "description": "Skin cream for babies only",
+      "price": 199,
+      "productImg": "http://localhost:4200/assets/b2.jpg",
+      "is_available": true,
+      "rating": 4.6,
+      "review": 200,
+      "vendor_name": "Himalaya",
+      "waranty": 1
+    },
+    {
+      "id": 18,
+      "name": "Baby Food",
+      "categoryId": 5,
+      "description": "Food powder for 6 months babies",
+      "price": 449,
+      "productImg": "http://localhost:4200/assets/b3.jpg",
+      "is_available": true,
+      "rating": 4.5,
+      "review": 148,
+      "vendor_name": "Nestle",
+      "waranty": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 2,
+      "categoryName": "Men"
+    },
+    {
+      "id": 3,
+      "categoryName": "Women"
+    },
+    {
+      "id": 4,
+      "categoryName": "Home & Furniture"
+    },
+    {
+      "id": 5,
+      "categoryName": "Baby & Kids"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

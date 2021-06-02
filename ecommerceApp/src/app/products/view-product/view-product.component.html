@@ -1,0 +1,20 @@
+        <div class="card mt-4">
+            <img class="card-img-top img-fluid" src="{{productDetails.productImg}}" alt="">
+            <div class="card-body">
+              <h3 class="card-title">{{productDetails.name}} ({{productDetails.vendor_name}})</h3>
+              <a href="products/update-product/{{productDetails.id}}">Update Product</a> | <a href="products/delete-product/{{productDetails.id}}">Delete Product</a>
+              <h4>Rs. {{productDetails.price}}</h4>
+              <p class="card-text">{{productDetails.description}}</p>
+              <span class="text-warning">{{productDetails.rating}} star</span>
+            </div>
+          </div>
+          <!-- /.card -->
+  
+          <div class="card card-outline-secondary my-4">
+            <div class="card-header">
+              Product Reviews
+              <small class="header" style="float: right; font-weight: 500;">{{productDetails.review}} reviews</small>
+          
+            </div>
+          </div>
+          <!-- /.card -->
